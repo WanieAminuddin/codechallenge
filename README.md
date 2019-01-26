@@ -1,5 +1,5 @@
 # codechallenge
-e-Health Application aimed for uuser registration and unique QR code generator
+e-Health Application aimed for user registration and unique QR code generator based on user profile.
 
 # How to run the codes
 1. Create sql database named PatientDB
